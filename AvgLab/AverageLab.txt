@@ -1,0 +1,7 @@
+Your numbers were:78 93 45 88 89 
+The average is 78.60
+Your numbers were:87 68 100 
+The average is 85.00
+Your numbers were:84 86 90 86 96 68 82 
+The average is 84.57
+You entered no values, therefore there is no average
